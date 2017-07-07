@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/helloworldmaven/helloworldmaven.iml" filepath="$PROJECT_DIR$/helloworldmaven/helloworldmaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldservletmaven/helloworldservletmaven.iml" filepath="$PROJECT_DIR$/helloworldservletmaven/helloworldservletmaven.iml" />
     </modules>
   </component>
 </project>
